@@ -1,0 +1,8 @@
+node_modules/
+dist/
+# 外部から取得するCC0アセット（数百MB）。`pnpm assets` で再生成できる
+assets-src/
+public/assets/
+# 検証用スクリーンショット
+screenshots/
+*.log
